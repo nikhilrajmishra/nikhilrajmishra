@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/imgres?q=web%20developer%20banner%20gif%20for%20github&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F106918656%2F209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FMd-Ij%2FMd-Ij&docid=tZDJzJe_hsFsIM&tbnid=d1C79WuL-DpeFM&vet=12ahUKEwju0t3a-eSHAxWPzjgGHaljDvgQM3oECBoQAA..i&w=1920&h=590&hcb=2&ved=2ahUKEwju0t3a-eSHAxWPzjgGHaljDvgQM3oECBoQAA)]
 <h1 align="center">Hi 👋, I'm Nikhil Raj Mishra</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
-<img align="right" alt="Coding" width="400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENqHmmRXf4eKZsLmSx2E-4odiXy5fLxiLfw&s">
+<img align="right" alt="Coding" width="400" src = "https://www.google.com/imgres?q=web%20developer%20banner%20gif%20for%20github&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F4948736%2Fthoughtworks-gif_dribbble.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fokoliechykwuka%2Fokoliechykwuka&docid=k-mY1vNyeYuAxM&tbnid=PXLAloFJw---QM&vet=12ahUKEwju0t3a-eSHAxWPzjgGHaljDvgQM3oECHAQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwju0t3a-eSHAxWPzjgGHaljDvgQM3oECHAQAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilrajmishra&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilrajmishra" /> </p>
 
